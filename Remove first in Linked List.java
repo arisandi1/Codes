@@ -51,7 +51,7 @@ public class Main {
      }
      else
      {
-         hrad=head.next;
+         head=head.next;
          size--;
      }
   }
